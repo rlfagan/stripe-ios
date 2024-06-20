@@ -1,0 +1,202 @@
+repo_name: rlfagan/stripe-ios
+report_id: 5b5b75882ea0b406ed69268b5834a0da
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-20T23:03:48+00:00'
+requested_by: davidme-stripe
+provider: github
+branch: master
+detected_tools_count: 16
+tools:
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/rlfagan/stripe-ios
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/rlfagan/stripe-ios
+  detection_source: Repo Metadata
+- name: Objective-C
+  description: The primary programming language you use when writing software for
+    OS X and iOS
+  website_url: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/rlfagan/stripe-ios
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/rlfagan/stripe-ios
+  detection_source: Repo Metadata
+- name: Swift
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/rlfagan/stripe-ios
+  detection_source: Repo Metadata
+- name: CircleCI
+  description: Automate your development process quickly, safely, and at scale
+  website_url: https://circleci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg
+  detection_source_url: https://github.com/rlfagan/stripe-ios/blob/master/.circleci/config.yml
+  detection_source: ".circleci/config.yml"
+  last_updated_by: davidme-stripe
+  last_updated_on: 2020-11-04 23:43:09.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/rlfagan/stripe-ios
+  detection_source: Repo Metadata
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/rlfagan/stripe-ios/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: David Estes
+  last_updated_on: 2020-10-09 00:54:02.000000000 Z
+- name: fastlane
+  description: Connect all iOS deployment tools into one streamlined workflow
+  website_url: https://fastlane.tools/
+  version: 2.167.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Mobile Continuous Integration
+  image_url: https://img.stackshare.io/service/2383/11098337.png
+  detection_source_url: https://github.com/rlfagan/stripe-ios/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: David Estes
+  last_updated_on: 2020-10-09 00:54:02.000000000 Z
+- name: Stripe
+  description: Payments for developers
+  website_url: https://stripe.com
+  open_source: false
+  hosted_saas: true
+  category: Payments
+  sub_category: Payment Services
+  image_url: https://img.stackshare.io/service/97/eW6tXeq3.png
+  detection_source_url: https://github.com/rlfagan/stripe-ios/blob/master/Tests/installation_tests/cocoapods/with_frameworks_objc/Podfile
+  detection_source: Tests/installation_tests/cocoapods/with_frameworks_objc/Podfile
+  last_updated_by: Jack Flintermann
+  last_updated_on: 2016-05-25 00:05:53.000000000 Z
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  version: 1.10.1
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/rlfagan/stripe-ios/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: davidme-stripe
+  last_updated_on: 2020-10-09 00:56:58.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/rlfagan/stripe-ios
+  detection_source: Repo Metadata
+- name: AliSoftware/OHHTTPStubs
+  description: Stub your network requests easily! Test your apps with fake network
+    data and custom response time
+  package_url: https://github.com/Carthage/AliSoftware/OHHTTPStubs
+  version: 9.1.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/carthage/image.png
+  detection_source_url: https://github.com/rlfagan/stripe-ios/blob/master/Cartfile.resolved
+  detection_source: Cartfile.private
+  last_updated_by: Yuki Tokuhiro
+  last_updated_on: 2019-05-14 19:13:12.000000000 Z
+- name: capitalone/SWHttpTrafficRecorder
+  description: A simple library empowering you to record/capture HTTP
+  package_url: https://github.com/Carthage/capitalone/SWHttpTrafficRecorder
+  version: 1.0.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/carthage/image.png
+  detection_source_url: https://github.com/rlfagan/stripe-ios/blob/master/Cartfile.resolved
+  detection_source: Cartfile.private
+  last_updated_by: Yuki Tokuhiro
+  last_updated_on: 2019-05-14 19:13:12.000000000 Z
+- name: erikdoe/ocmock
+  description: Mock objects for Objective-C
+  package_url: https://github.com/Carthage/erikdoe/ocmock
+  version: 3.7.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/carthage/image.png
+  detection_source_url: https://github.com/rlfagan/stripe-ios/blob/master/Cartfile.resolved
+  detection_source: Cartfile.private
+  last_updated_by: Brian Dorfman
+  last_updated_on: 2017-11-07 18:12:08.000000000 Z
+- name: cocoapods
+  description: CocoaPods manages library dependencies for your Xcode project
+  package_url: https://rubygems.org/cocoapods
+  version: 1.10.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19189/default_2266a6c0e2693d55b1999a7c5db4be13e5720232.png
+  detection_source_url: https://github.com/rlfagan/stripe-ios/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: davidme-stripe
+  last_updated_on: 2020-10-09 00:56:58.000000000 Z
