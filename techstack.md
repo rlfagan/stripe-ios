@@ -167,16 +167,16 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[AliSoftware/OHHTTPStubs](https://github.com/Carthage/AliSoftware/OHHTTPStubs)|v9.1.0|05/14/19|Yuki Tokuhiro |N/A|N/A|
-|[capitalone/SWHttpTrafficRecorder](https://github.com/Carthage/capitalone/SWHttpTrafficRecorder)|v1.0.2|05/14/19|Yuki Tokuhiro |N/A|N/A|
-|[erikdoe/ocmock](https://github.com/Carthage/erikdoe/ocmock)|v3.7.1|11/07/17|Brian Dorfman |N/A|N/A|
+|[AliSoftware/OHHTTPStubs](https://github.com/Carthage/AliSoftware/OHHTTPStubs)|v9.1.0|N/A|N/A |N/A|N/A|
+|[capitalone/SWHttpTrafficRecorder](https://github.com/Carthage/capitalone/SWHttpTrafficRecorder)|v1.0.2|N/A|N/A |N/A|N/A|
+|[erikdoe/ocmock](https://github.com/Carthage/erikdoe/ocmock)|v3.7.1|N/A|N/A |N/A|N/A|
 
 
 ## <img width='24' height='24' src='https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg'/> RubyGems (1)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[cocoapods](https://rubygems.org/cocoapods)|v1.10.1|10/09/20|davidme-stripe |MIT|N/A|
+|[cocoapods](https://rubygems.org/cocoapods)|v1.10.1|N/A|N/A |MIT|N/A|
 
 <br/>
 <div align='center'>
